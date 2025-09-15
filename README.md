@@ -144,7 +144,7 @@ Chaho to mai tumhe ek **checklist for GitHub upload** bhi bana dun?
 ![Pairplot](screenshots/pairplot.png)
 
 ### 3. Correlation Heatmap
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](screenshots/Heatmap.png)
 
 ### 4. Streamlit App Preview
 ![App Preview](screenshots/Model_Accuracy_Comparison.png)
